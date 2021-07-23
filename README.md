@@ -9,7 +9,7 @@
 
 - 🌱 as I continue to learn **Vue, MongoDB and MySql**
 
-- 👯 I’m looking to collaborate on **Javascript Projects**
+- 👯 I’m also looking to collaborate on **Design Projects**
 
 - 🤝 I’m looking for help with my **Career**
 
