@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently looking to work on **Vue Projects**
 
-- 🌱 I’m currently learning **Vue, MongoDB and MySql**
+- 🌱 as I continue to **Vue, MongoDB and MySql**
 
 - 👯 I’m looking to collaborate on **Javascript Projects**
 
