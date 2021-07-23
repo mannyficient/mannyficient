@@ -11,7 +11,7 @@
 
 - 👯 I’m also looking to collaborate on **Design Projects**
 
-- 🤝 I’m looking for help with my **Career**
+- 🤝 Any feedback is welcomed towards developing my **Career**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mannyficient/PersonalSite](https://github.com/mannyficient/PersonalSite)
 
