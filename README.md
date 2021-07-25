@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/mannyficient" target="blank"><img src="https://img.shields.io/twitter/follow/mannyficient?logo=twitter&style=for-the-badge" alt="mannyficient" /></a> </p>
 
-- 🔭 I’m currently looking to work on **Vue Projects**
+- 🔭 I’m currently looking to work as a **Front End Developer**
 
-- 🌱 as I continue to learn **Vue, MongoDB and MySql**
+- 🌱 as I continue to learn **React, Vue, MongoDB and MySql**
 
 - 👯 I’m also looking to collaborate on **Design Projects**
 
