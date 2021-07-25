@@ -13,15 +13,15 @@
 
 - 🤝 Any feedback is welcomed towards developing my **Career**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mannyficient/PersonalSite](https://github.com/mannyficient/PersonalSite)
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/mannyficient/PersonalSite](https://github.com/mannyficient/PersonalSite) -->
 
-- 📝 I regularly write articles on [-](-)
+<!-- - 📝 I regularly write articles on [-](-) -->
 
 - 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **eoadegbe@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dQ35VxV2ZRUs_qiAKDlJ2vQizboAl4Nz/view?usp=sharing](https://drive.google.com/file/d/1dQ35VxV2ZRUs_qiAKDlJ2vQizboAl4Nz/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAEkfI0HagE/F8mQirDmE6FrdnEXjRnSeg/view?utm_content=DAEkfI0HagE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 - ⚡ Fun fact **I love mystery**
 
