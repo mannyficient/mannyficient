@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **eoadegbe@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAEkfI0HagE/F8mQirDmE6FrdnEXjRnSeg/view?utm_content=DAEkfI0HagE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAEl8bJjpHM/0u3nJpku_9E7wUuaPoeuwg/view?utm_content=DAEl8bJjpHM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 - ⚡ Fun fact **I love mystery**
 
