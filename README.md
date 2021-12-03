@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/mannyficient" target="blank"><img src="https://img.shields.io/twitter/follow/mannyficient?logo=twitter&style=for-the-badge" alt="mannyficient" /></a> </p>
 
-- 🔭 I’m currently looking to work as a **Front End Developer**
+- 🔭 I’m currently looking to work as a **UX Designer**
 
 - 🌱 as I continue to learn **React, Vue, MongoDB and MySql**
 
-- 👯 I’m also looking to collaborate on **Design Projects**
+- 👯 I’m also looking to collaborate on **Social Projects**
 
 - 🤝 Any feedback is welcomed towards developing my **Career**
 
